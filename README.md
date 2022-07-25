@@ -11,6 +11,7 @@
 OldNewExplorer — це програма яка приховує класичні елементи. Цю програму можна скачати [тут](https://github.com/Bratslavskij/win10-in-win11-i-pokrashenja/blob/main/OldNewExplorer.rar?raw=true), краще на Локальному Диску C створити папку Windows11Files і в цей каталог помістити архів. Потім видобуйте файли і відкрийте теку OldNewExplorer та запустіть файл OldNewExplorer.exe і поставте там галочки:
 
 <img src="images/oldnewexplorer.png">
+
 ### Встановлюємо тему
 Спочатку ми завантажимо архіви Windows 11 styles.rar, Windows 11 shell and wallpapers.rar, та виберіть один архів Windows 11 Dark NA.rar або Windows 11 Dark.rar або Windows 11 Light NA.rar або Windows 11 Light.rar. Потім відкрийте Файловий провідник Windows і перейдіть до цього каталогу:
 ```html
