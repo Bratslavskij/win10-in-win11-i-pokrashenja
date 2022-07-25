@@ -4,6 +4,8 @@
 [Робимо інтерфейс Windows 10 як на Windows 11](https://github.com/Bratslavskij/win10-in-win11-i-pokrashenja#%D1%80%D0%BE%D0%B1%D0%B8%D0%BC%D0%BE-%D1%96%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81-windows-10-%D1%8F%D0%BA-%D0%BD%D0%B0-windows-11)
 
 [— Встановлюємо тему](https://github.com/Bratslavskij/win10-in-win11-i-pokrashenja#%D0%B2%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D1%8E%D1%94%D0%BC%D0%BE-%D1%82%D0%B5%D0%BC%D1%83)
+
+[— OldNewExplorer](https://github.com/Bratslavskij/win10-in-win11-i-pokrashenja#oldnewexplorer)
 ## Робимо інтерфейс Windows 10 як на Windows 11
 ### OldNewExplorer
 OldNewExplorer — це програма яка приховує класичні елементи. Цю програму можна скачати [тут](https://github.com/Bratslavskij/win10-in-win11-i-pokrashenja/blob/main/OldNewExplorer.rar?raw=true), краще на Локальному Диску C створити папку Windows11Files і в цей каталог помістити архів. Потім видобуйте файли і відкрийте теку OldNewExplorer та запустіть файл OldNewExplorer.exe і поставте там галочки:
