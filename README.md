@@ -20,3 +20,14 @@ C:\Windows\Resources\Themes
 Вставте в ций каталог архів своєї теми, та видобуйте файли своїм архіватором та видаліть архів. Потім сторімо папку Windows 11 в каталозі C:\Windows\Resources\Themes та зробіть це з архівами Windows 11 styles.rar та Windows 11 shell and wallpapers.rar як з архівом теми. Потім ідемо на верх каталога та двічі разів натисніть на Windows 11 тему та зачекайте. Після цього має бути такий результат чи щось інше:
 
 <img src="images/1крок.png">
+
+### Закруглені вікна
+На Windows 11 зазвичай закруглені вікна, тому ми встановлемо програму Stardock Curtains. Завантажити можна [тут](https://cdn.stardock.us/downloads/public/software/curtains/Curtains_setup.exe)
+
+#### Завантаження Stardock Curtains
+Запустіть завантаженний файл Curtains_setup.exe від імені аднімістратора і зробіть ці кроки.
+1.
+
+<img src="images/curtains.png">
+
+<img src="https://www.stardock.com/about/images/sdimages/softlogos/curtains.png">
